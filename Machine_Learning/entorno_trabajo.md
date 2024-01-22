@@ -71,6 +71,37 @@ La instalación de Anaconda en Linux es un proceso sencillo que te permite gesti
 
 Con estos pasos, has instalado con éxito Anaconda en tu sistema Linux, y ahora estás listo para trabajar en entornos virtuales y gestionar paquetes de manera eficiente.
 
+### Creando un entorno virtual
+
+Un entorno virtual es un apartado independiente en donde podemos instalar una
+serie de paquetes (de Python por ejemplo), de manera que no interfieran entre si
+o con los paquetes que tenemos preeinstalados en nuestro sistema operativo.
+
+Para crear un nuevo entorno virtual seguimos los siguientes pasos:
+
+1. **Arrancar Anaconda Navigator**
+
+Ejecutamos el siguiente comando:
+
+```bash
+anaconda-navigator
+```
+
+2. Nos dirigimos a la sección 'Environments'
+3. Ingresamos un nombre
+4. Seleccionamos 'Create'
+
+![Environments](https://github.com/alabacw74/Python-para-Analisis-de-datos/blob/main/Machine_Learning/images/preparacion_entorno_de_trabajo/preparacion_entorno_trabajo_01.png "Creando un nuevo Environment")
+
+De esta forma hemos creado un nuevo entorno y podemos trabajar sobre el si 
+presionamos en el botón 'Play' y seleccionamos 'Open Terminal'
+
+![Abrir entorno virtual en Terminal](https://github.com/alabacw74/Python-para-Analisis-de-datos/blob/main/Machine_Learning/images/preparacion_entorno_de_trabajo/preparacion_entorno_trabajo_02.png "Abrir entorno virtual en Terminal")
+
+![Instalar Pandas en el nuevo Environment](https://github.com/alabacw74/Python-para-Analisis-de-datos/blob/main/Machine_Learning/images/preparacion_entorno_de_trabajo/preparacion_entorno_trabajo_03.png "Instalar Pandas en el nuevo Environment")
+
+Ahora hemos instalado la librería `Pandas` en nuestro entorno virtual `Curso_Machine_Learning`
+
 ---
 > [!NOTE]
 > Recuerda que este es un ejemplo y puedes ajustarlo según tus necesidades. Además, ten en cuenta que puede haber cambios en los comandos según la versión específica de Anaconda o la distribución de Linux que estés utilizando.
