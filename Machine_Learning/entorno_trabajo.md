@@ -70,6 +70,7 @@ La instalación de Anaconda en Linux es un proceso sencillo que te permite gesti
    Esto mostrará información sobre tu instalación de Anaconda.
 
 Con estos pasos, has instalado con éxito Anaconda en tu sistema Linux, y ahora estás listo para trabajar en entornos virtuales y gestionar paquetes de manera eficiente.
-```
 
-Recuerda que este es un ejemplo y puedes ajustarlo según tus necesidades. Además, ten en cuenta que puede haber cambios en los comandos según la versión específica de Anaconda o la distribución de Linux que estés utilizando.
+---
+> [!NOTE]
+> Recuerda que este es un ejemplo y puedes ajustarlo según tus necesidades. Además, ten en cuenta que puede haber cambios en los comandos según la versión específica de Anaconda o la distribución de Linux que estés utilizando.
